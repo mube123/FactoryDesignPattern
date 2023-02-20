@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Mubeen
+ *
+ */
+module FactoryDesignPattern {
+}
